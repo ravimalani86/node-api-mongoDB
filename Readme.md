@@ -1,4 +1,4 @@
-# EasyNotes Application
+# Demo Application
 
 Build a Restful CRUD API for a simple demo application using Node.js, Express and MongoDB.
 
